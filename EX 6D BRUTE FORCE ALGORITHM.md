@@ -18,8 +18,8 @@ To write a python program using brute force method of searching for the given su
 
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: AMURTHA VAAHINI KN
+# Register Number: 212222240008
 
 import re
 def match(string,sub):
